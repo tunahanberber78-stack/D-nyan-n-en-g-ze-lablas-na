@@ -99,7 +99,7 @@
     <h1>Canım Ablam</h1>
 
     <p>
-      Doğum günü kutlu olsun ablacım, nice mutlu yıllara sevdiklerinle beraber umarım en güzel yaşlarından biri olur hep mutlu ol ablacım.
+Doğum günü kutlu olsun ablacım, nice mutlu yıllara sevdiklerinle beraber umarım en güzel yaşlarından biri olur hep mutlu ol ablacım.
 Hayatında hep başarılar evliliğinizde bir ömür boyu mutluluklar 2'nizde hep mutlu olun yüzünüz hiç düşmesin. Sen benim abla olarak gördüğüm ilk insansın .
 Bu küçük hediyenin yanında böyle bişey hazırlamak istedim  
 yüzünde küçücük de olsa bir gülümseme bırakmasını istedim.  
